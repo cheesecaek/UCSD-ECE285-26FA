@@ -1,0 +1,6 @@
+# The mjlab environment already provides CUDA-enabled torch and torchvision.
+pytorch-ignite==0.5.5
+matplotlib
+numpy
+pillow
+scipy
