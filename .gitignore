@@ -5,3 +5,7 @@ runs/
 ece285_hw2.pdf
 README.md
 texput.log
+chest_xray/
+other/
+vae_outputs/
+README_VAE.md
